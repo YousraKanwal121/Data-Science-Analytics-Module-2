@@ -143,7 +143,7 @@ Data-driven Marketing Strategy Development
 
 ---
 
-🚀 Conclusion
+## 🚀Conclusion
 
 This project demonstrates how unsupervised machine learning can be effectively used to understand customer behavior and support strategic business decisions. The insights gained can help businesses optimize marketing efforts and enhance customer satisfaction.
 
