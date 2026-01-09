@@ -148,3 +148,16 @@ Data-driven Marketing Strategy Development
 This project demonstrates how unsupervised machine learning can be effectively used to understand customer behavior and support strategic business decisions. The insights gained can help businesses optimize marketing efforts and enhance customer satisfaction.
 
 ---
+
+---
+
+### TASK 3 Plots Preview:-
+![Preview](https://github.com/YousraKanwal121/Data-Science-Analytics-Module-2/blob/main/gender%20count.png)
+![Preview](https://github.com/YousraKanwal121/Data-Science-Analytics-Module-2/blob/main/age%20count.png)
+![Preview](https://github.com/YousraKanwal121/Data-Science-Analytics-Module-2/blob/main/annual%20income.png)
+![Preview](https://github.com/YousraKanwal121/Data-Science-Analytics-Module-2/blob/main/customer%20segmentation.png)
+![Preview](https://github.com/YousraKanwal121/Data-Science-Analytics-Module-2/blob/main/customer%20segmentation%20using%20TSNE.png)
+
+
+
+---
